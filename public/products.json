@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "recipe_img": "https://i.ibb.co/L9gt8zF/Grey-Delicious-Spaghetti-Promo-Instagram-Post.png",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian pasta dish with bacon and eggs.",
+        "ingredients": ["Spaghetti", "Bacon", "Eggs",  "Black pepper"],
+        "preparing_time": 30,
+        "calories": 450
+    },
+    {
+        "id": 2,
+        "recipe_img": "https://i.ibb.co/2W8sKpR/pizza.png",
+        "recipe_name": "Margherita Pizza",
+        "short_description": "Creamy pasta dish with grilled chicken.",
+        "ingredients": ["Fettuccine pasta", "Chicken breast", "Heavy cream", "Parmesan cheese", "Garlic"],
+        "preparing_time": 40,
+        "calories": 550
+    },
+    {
+        "id": 3,
+        "recipe_img": "https://i.ibb.co/TBDC88x/Delicious-Food-Menu-Poster.png",
+        "recipe_name": "Egg Ocma",
+        "short_description": "Classic Italian pizza with tomato, mozzarella, and basil.",
+        "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella cheese", "Basil leaves", "Olive oil"],
+        "preparing_time": 25,
+        "calories": 400
+    },
+    {
+        "id": 4,
+        "recipe_img": "https://i.ibb.co/6WLR8xq/Rectangle-20170.png",
+        "recipe_name": "Beef Burger",
+        "short_description": "Juicy beef patty with lettuce, tomato, and cheese.",
+        "ingredients": ["Ground beef", "Burger buns", "Lettuce", "Tomato", "Cheddar cheese"],
+        "preparing_time": 20,
+        "calories": 600
+    },
+    {
+        "id": 5,
+        "recipe_img": "https://i.ibb.co/SRQCPM4/Yellow-Black-Modern-Special-Offer-Food-Promo-Instagram-Post.png",
+        "recipe_name": "Caesar Salad",
+        "short_description": "Fresh salad with romaine lettuce, croutons, and Caesar dressing.",
+        "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing", "Chicken breast"],
+        "preparing_time": 15,
+        "calories": 350
+    },
+    {
+        "id": 6,
+        "recipe_img": "https://i.ibb.co/M6mMyc5/Simple-Aesthetic-Coffee-Time-Instagram-Instagram.png",
+        "recipe_name": "coffe",
+        "short_description": "Assorted sushi rolls with rice, fish, and vegetables.",
+        "ingredients": ["Sushi rice", "Nori seaweed","Cucumber", "Avocado"],
+        "preparing_time": 35 ,
+        "calories": 500
+    },
+    {
+        "id": 7,
+        "recipe_img": "https://i.ibb.co/71xdn7j/Yellow-Brown-Modern-Grilled-Chicken-Menu-Discount-Flyer.png",
+        "recipe_name": "Chicken Teriyaki",
+        "short_description": "Grilled chicken with sweet teriyaki sauce.",
+        "ingredients": ["Chicken thighs", "Brown sugar", "Garlic", "Ginger"],
+        "preparing_time": 30 ,
+        "calories": 450
+    },
+    {
+        "id": 8,
+        "recipe_img": "https://i.ibb.co/dbwVRKm/Black-Minimalist-Food-Fresh-Meat-Steak-Butcher-Instagram-Post.png",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy Italian rice dish with mushrooms and Parmesan cheese.",
+        "ingredients": [ "Chicken broth", "White wine", "Onion"],
+        "preparing_time": 45 ,
+        "calories": 400
+    },
+    {
+        "id": 9,
+        "recipe_img": "https://i.ibb.co/25Pv3Sj/Beige-Orange-Indian-Food-Chicken-Curry-You-Tube-Thumbnail.png",
+        "recipe_name": "chicken curry",
+        "short_description": "Assorted vegetables stir-fried in a flavorful sauce.",
+        "ingredients": ["Bell peppers", "Broccoli", "Carrots", "Soy sauce", "Ginger"],
+        "preparing_time": 20,
+        "calories": 250
+    },
+    {
+        "id": 10,
+        "recipe_img": "https://i.ibb.co/5xCyHnV/883f9fa3-b1f2-4c34-96ff-2036389536bf.png",
+        "recipe_name": "Tiramisu",
+        "short_description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+        "ingredients": ["Ladyfingers", "Eggs"],
+        "preparing_time": 40 ,
+        "calories": 400
+    }
+]
+
+
+
+
+
+
